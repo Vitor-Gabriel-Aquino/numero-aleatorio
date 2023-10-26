@@ -1,0 +1,3 @@
+temp/  >>>>>>> ignora todos os arquivos da pasta temp
+arquivo.txt  >>>>>>> ignora apenas o arquivo arquivo.txt
+*.php >>>>>>> ignora todos os arquivos com a extensão .php
